@@ -1,7 +1,7 @@
 {
-    "name": "calcinai/xero-php",
+    "name": "kgdiem/xero-php",
     "type": "library",
-    "description": "A client implementation of the Xero API, with a cleaner OAuth interface and ORM-like abstraction.",
+    "description": "Upstream version of calcinai/xero-php -- A client implementation of the Xero API, with a cleaner OAuth interface and ORM-like abstraction.",
     "homepage": "https://github.com/calcinai/xero-php",
     "license": "MIT",
 
